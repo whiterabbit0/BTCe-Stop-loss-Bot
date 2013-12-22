@@ -1,6 +1,6 @@
 #! python3
 # Donate if you want/can 
-# BTC: 1GZa6F8EW8CvBx7FfbRh2RuN77tDSM3ym4
+# BTC: 1CqwtF5w2UsFk7tKkREFuHT4NEophxj8JC
 # LTC: Lh8bnJXpTq42YXRDm9V4DUvMT5AmNAttDL
 import configparser
 import http.client
