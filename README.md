@@ -6,11 +6,11 @@ Supported currency pairs are BTC/USD, LTC/USD, and LTC/BTC.
 
 Donate if you like it.
 
-BTC: 1CqwtF5w2UsFk7tKkREFuHT4NEophxj8JC
+BTC: 1CqwtF5w2UsFk7tKkREFuHT4NEophxj8JC      
 LTC: Lh8bnJXpTq42YXRDm9V4DUvMT5AmNAttDL
 
 
-Intructions
+Instructions
 ==================
 1. Enter API keys into BTC.ini
 2. Run BTCeStop-Loss_Bot.py
